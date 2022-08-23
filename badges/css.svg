@@ -10,7 +10,6 @@
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
@@ -25,8 +24,8 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="8.4285714"
-     inkscape:cx="45.20339"
-     inkscape:cy="6.2881356"
+     inkscape:cx="45.79661"
+     inkscape:cy="7.8305085"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="-8"
@@ -63,13 +62,6 @@
      text-rendering="geometricPrecision"
      font-size="100"
      id="g862">
-    <image
-       x="9"
-       y="7"
-       width="14"
-       height="14"
-       xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkNTUzM8L3RpdGxlPjxwYXRoIGQ9Ik0xLjUgMGgyMWwtMS45MSAyMS41NjNMMTEuOTc3IDI0bC04LjU2NS0yLjQzOEwxLjUgMHptMTcuMDkgNC40MTNMNS40MSA0LjQxbC4yMTMgMi42MjIgMTAuMTI1LjAwMi0uMjU1IDIuNzE2aC02LjY0bC4yNCAyLjU3M2g2LjE4MmwtLjM2NiAzLjUyMy0yLjkxLjgwNC0yLjk1Ni0uODEtLjE4OC0yLjExaC0yLjYxbC4yOSAzLjg1NUwxMiAxOS4yODhsNS4zNzMtMS41M0wxOC41OSA0LjQxNHoiLz48L3N2Zz4="
-       id="image858" />
     <text
        transform="scale(.1)"
        x="485"
@@ -79,4 +71,9 @@
        font-weight="bold"
        id="text860">CSS3</text>
   </g>
+  <path
+     fill="#1572b6"
+     d="m 9.5426924,6.940678 1.1861816,12.913689 5.322544,1.439137 5.337408,-1.444401 1.187126,-12.908425 z m 10.5689966,2.958583 -0.394844,4.30197 0.0012,0.02322 -0.0017,0.05343 v -4.57e-4 l -0.280532,3.008003 -0.03091,0.267237 -3.345612,0.897345 v 1.14e-4 l -0.0025,0.0022 -3.339831,-0.902379 -0.226147,-2.486917 h 1.637769 l 0.116198,1.264566 1.815078,0.477042 -4.71e-4,9.16e-4 v -2.29e-4 l 1.821801,-0.483793 0.192526,-2.059295 h -3.808406 l -0.03268,-0.348115 -0.07444,-0.81555 -0.03904,-0.437919 h 4.099319 l 0.149113,-1.601632 h -6.243649 l -0.03268,-0.347887 -0.07432,-0.8157782 -0.03916,-0.4379191 h 8.173038 z"
+     id="path2176"
+     style="stroke-width:0.116169" />
 </svg>
