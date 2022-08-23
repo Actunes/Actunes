@@ -5,7 +5,7 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Actunes&layout=compact&langs_count=7&theme=omni&hide_border=true"/>
 </div>
 
-#### Sklls
+### Sklls
 
 ![HTML5](./badges/Skills/html.svg)
 ![CSS3](./badges/Skills/css.svg)
