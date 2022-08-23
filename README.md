@@ -16,6 +16,6 @@
 
 ![Git](./badges/Tools/Git.svg)
 ![GitHub](./badges/Tools/github.svg)
-![Visual Studio Code](./badges/Tools/vscode.svg)
-![Windows](./badges/Tools/windows.svg)<br>
+![Visual Studio Code](./badges/Tools/vscode.svg)<br>
+![Windows](./badges/Tools/windows.svg)
 ![Ubuntu](./badges/Tools/ubuntu.svg)
