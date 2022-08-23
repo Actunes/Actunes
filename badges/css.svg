@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="77"
+   height="28"
+   role="img"
+   aria-label="CSS3"
+   version="1.1"
+   id="svg864"
+   sodipodi:docname="css.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs868" />
+  <sodipodi:namedview
+     id="namedview866"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="8.4285714"
+     inkscape:cx="45.20339"
+     inkscape:cy="6.2881356"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg864"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="10.20339,23.076271"
+       orientation="0,-1"
+       id="guide1176" />
+  </sodipodi:namedview>
+  <title
+     id="title852">CSS3</title>
+  <g
+     shape-rendering="crispEdges"
+     id="g856"
+     style="fill:#191622;fill-opacity:1">
+    <rect
+       width="77"
+       height="28"
+       fill="#1572b6"
+       id="rect854"
+       style="fill:#191622;fill-opacity:1"
+       ry="4.9237289"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     fill="#fff"
+     text-anchor="middle"
+     font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+     text-rendering="geometricPrecision"
+     font-size="100"
+     id="g862">
+    <image
+       x="9"
+       y="7"
+       width="14"
+       height="14"
+       xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkNTUzM8L3RpdGxlPjxwYXRoIGQ9Ik0xLjUgMGgyMWwtMS45MSAyMS41NjNMMTEuOTc3IDI0bC04LjU2NS0yLjQzOEwxLjUgMHptMTcuMDkgNC40MTNMNS40MSA0LjQxbC4yMTMgMi42MjIgMTAuMTI1LjAwMi0uMjU1IDIuNzE2aC02LjY0bC4yNCAyLjU3M2g2LjE4MmwtLjM2NiAzLjUyMy0yLjkxLjgwNC0yLjk1Ni0uODEtLjE4OC0yLjExaC0yLjYxbC4yOSAzLjg1NUwxMiAxOS4yODhsNS4zNzMtMS41M0wxOC41OSA0LjQxNHoiLz48L3N2Zz4="
+       id="image858" />
+    <text
+       transform="scale(.1)"
+       x="485"
+       y="175"
+       textLength="330"
+       fill="#fff"
+       font-weight="bold"
+       id="text860">CSS3</text>
+  </g>
+</svg>
