@@ -10,6 +10,7 @@
 ![HTML5](./badges/Skills/html.svg)
 ![CSS3](./badges/Skills/css.svg)
 ![JavaScript](./badges/Skills/js.svg)
+![Node.js](./badges/Skills/node.svg)
 ![Python](./badges/Skills/py.svg)
 
 ### Tools
@@ -19,3 +20,4 @@
 ![Visual Studio Code](./badges/Tools/vscode.svg)<br>
 ![Windows](./badges/Tools/windows.svg)
 ![Ubuntu](./badges/Tools/ubuntu.svg)
+![mongoDB](./badges/Tools/mongo.svg)
