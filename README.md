@@ -1,8 +1,11 @@
 ### Olá viajante 👋
-<div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Actunes&show_icons=true&theme=omni&include_all_commits=true&count_private=true&hide_border=true&title_color=483C67"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app//api/top-langs/?username=Actunes&layout=compact&langs_count=7&theme=omni&hide_border=true&title_color=483C67"/>
-</div>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Actunes&show_icons=true&theme=omni&include_all_commits=true&count_private=true&hide_border=true&title_color=483C67" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app//api/top-langs/?username=Actunes&layout=compact&langs_count=7&theme=omni&hide_border=true&title_color=483C67" />
+</a>
 
 ### Sklls
 
